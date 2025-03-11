@@ -1,0 +1,28 @@
+from DZ5 import sum_ignore_non_numbers
+from DZ5 import is_triangle
+
+# Задание 1
+# print(sum_ignore_non_numbers([1, 2, 'Hey', None, 4.3,5]))
+# is_triangle(5,8,12)
+
+# Задание 2
+
+# pow = lambda x,y: x ** y
+#
+# print(pow(3,2))
+
+# Задание 3
+
+# def snake_talk(text):
+#     result = ''
+
+#     vowels = ('aeiouyAEIOUY')
+#     for char in text:
+#         if char in vowels:
+#             result += char*2
+#         else:
+#             result += char
+
+#     return result
+
+# print(snake_talk('Hi my little friend'))
